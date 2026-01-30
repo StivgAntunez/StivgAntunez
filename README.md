@@ -194,5 +194,5 @@
 <!-- ===================== -->
 <div align="center">
   ❤️ Thanks for watching my profile! Have a nice day 😉 <br/>
-  &copy; 2024 Stivg Antunez
+  &copy; 2026 Stivg Antunez
 </div>
