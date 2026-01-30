@@ -3,8 +3,8 @@
 <!-- ===================== -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Stivg+Antunez;Welcome+to+my+profile!" 
-    alt="Title"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF41&size=28&center=true&vCenter=true&width=700&height=60&lines=System+Access+Granted...;Welcome+to+Stivg+Antunez's+Matrix;Initializing+Developer+Portfolio..."
+    alt="Matrix Hacker Style"
   />
 </div>
 
@@ -14,9 +14,11 @@
 <!-- IMAGEN DECORATIVA -->
 <!-- ===================== -->
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" 
-    height="120px" 
+   <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhhcHY3ZG96aHlqNnkxczl6cHduemd6YnA2eWliOWthMGhtN3IybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif"
+    height="15000px"
+    widght="150px"
+    alt="Matrix Hacker Animation"
   />
 </div>
 
